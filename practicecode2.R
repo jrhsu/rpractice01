@@ -5,3 +5,6 @@ plot(x,y)
 plot(x,z)
 cor(x,y)
 cor(x,z)
+
+var(x)
+sd(x)
